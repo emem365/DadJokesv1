@@ -1,11 +1,11 @@
-# DadJokesv1
+# Note:
+This repo has been moved to [emem365/DadJokes/DadJokesV1](https://github.com/emem365/DadJokes/tree/master/DadJokesV1)
 
-![](previews/screen1.png)
+
+# DadJokesv1
 
 This is a python app that pulls out random Dad Jokes from https://icanhazdadjoke.com/ and prints it to the user.
 It is deployed to heroku! Visit https://dadjokesv1.herokuapp.com/ to view.
-
-![](previews/screen.png)
 
 ## Getting Started
 
